@@ -1,0 +1,5 @@
+Ours_ZOS vs Correlation_new on GIST: AUC stat=662.0000, p=2.6727e-01 | BA stat=725.5000, p=5.5425e-01 | F1 stat=321.0000, p=5.9118e-05
+Ours_ZOS vs Frequency_new on GIST: AUC stat=664.0000, p=2.7437e-01 | BA stat=714.0000, p=3.7140e-01 | F1 stat=373.0000, p=3.1438e-04
+Ours_ZOS vs SparseEA_new on GIST: AUC stat=320.0000, p=9.6550e-05 | BA stat=415.0000, p=1.0775e-03 | F1 stat=125.0000, p=2.4958e-08
+Ours_ZOS vs ABMOHS on GIST: AUC stat=317.0000, p=8.7251e-05 | BA stat=341.0000, p=1.1460e-04 | F1 stat=127.0000, p=2.7339e-08
+Ours_ZOS vs GSS on GIST: AUC stat=190.0000, p=7.0672e-07 | BA stat=3.0000, p=6.0335e-11 | F1 stat=1.0000, p=5.4254e-11

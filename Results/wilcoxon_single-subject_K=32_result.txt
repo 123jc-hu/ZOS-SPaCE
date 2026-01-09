@@ -1,0 +1,5 @@
+Ours_ZOS vs Correlation_new on CAS: AUC stat=54.0000, p=4.9542e-01 | BA stat=56.0000, p=5.6189e-01 | F1 stat=47.0000, p=2.9785e-01
+Ours_ZOS vs Frequency_new on CAS: AUC stat=39.0000, p=1.4386e-01 | BA stat=36.0000, p=9.7933e-02 | F1 stat=56.0000, p=5.6189e-01
+Ours_ZOS vs SparseEA_new on CAS: AUC stat=67.0000, p=9.7995e-01 | BA stat=50.0000, p=3.7546e-01 | F1 stat=44.0000, p=2.1430e-01
+Ours_ZOS vs ABMOHS on CAS: AUC stat=42.0000, p=1.9281e-01 | BA stat=42.0000, p=1.9281e-01 | F1 stat=38.0000, p=1.2973e-01
+Ours_ZOS vs GSS on CAS: AUC stat=27.0000, p=3.3539e-02 | BA stat=22.0000, p=1.5503e-02 | F1 stat=3.0000, p=1.5259e-04
